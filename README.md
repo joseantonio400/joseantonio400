@@ -4,6 +4,7 @@
 - 💞️ I try to collaborate with human beings. I do not work in a corporate environment or with commercial intentions.
 - 📫 you can reach me by looking for joseantonio400 on the internet. I prefer dialogues in 'pt-br' language.
 - 👀 https://www.filosofiapopular.com.br and https://www.saraus.com.br/ are my current jobs.
+- - 💞️ I'm interested that GITHUB experts create a platform to "search website" to get rid of Google commercials in "Google search".
 
 <!---
 joseantonio400/joseantonio400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
